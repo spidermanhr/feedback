@@ -14,4 +14,4 @@ Read old questions than ask new if it isn't covered before.
 
 ## Twitter
 
-If you have something quick and easy, just tweet to me. I'm [@ZXeDroid](https://twitter.com/ZXeDroid) on Twitter.
+If you have something quick and easy, just tweet to me. I'm [@zdr0id](https://twitter.com/zdr0id) on Twitter.
