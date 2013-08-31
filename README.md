@@ -8,9 +8,7 @@ You can ask question by submitting [new issue](https://github.com/ZDroid/feedbac
 
 I will try to answer as quick as possible. If is issue closed, question is answered. You are free to continue discussion on answered question, but only about its topic.
 
-## Read before asking
-
-Read old questions than ask new if it isn't covered before.
+**Read old questions than ask new if it isn't covered before.**
 
 ## Twitter
 
