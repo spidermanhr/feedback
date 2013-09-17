@@ -1,6 +1,6 @@
 # Feedback
 
-This is a quick little **ask-me-anything** repository inspired by Zach Holman's [feedback repository](https://github.com/holman/feedback). 
+This is a quick little **ask-me-anything** repository inspired by [Zach Holman's feedback repository](https://github.com/holman/feedback). 
 
 ## Ask a question
 
