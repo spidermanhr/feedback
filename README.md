@@ -6,7 +6,7 @@ This is a quick little **ask-me-anything** repository inspired by [Zach Holman's
 
 You can ask question by submitting [new issue](https://github.com/ZDroid/feedback/issues/new).
 
-I will try to answer as quick as possible. If is issue closed, question is answered. You are free to continue discussion on answered question, but only about its topic.
+I will try to answer as quick as possible. If is issue closed, question is answered. You are free to continue discussion on answered question, but please don't write offtopic.
 
 **Read old questions before asking new ones.**
 
